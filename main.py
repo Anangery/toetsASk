@@ -19,14 +19,14 @@ def opposite(num):
 
 # MAIN LOOP
 if __name__ == "__main__":
-    for i in range(length):
+    while True:
         num = random.randint(0,1)
-        numop = random.randint(0,length)
+        numop = random.randint(0,length-1)
         while numop in prev:
-            numop = random.randint(0, length)
+            numop = random.randint(0, length-1)
         prev.append(numop)
 
-        # Easy acces to element name, type, and symbol
+        # Easy access to element name, type, and symbol
         name = elements["elements"][numop]["name"]
         type = elements["elements"][numop]["type"]
         sym = elements["elements"][numop]["symbol"]
