@@ -38,9 +38,11 @@ if __name__ == "__main__":
                 print("Correct")
             else:
                 print("Incorrect, the answer is {sym} {type}".format(sym=sym, type=type))
+                prev.remove(numop)
         else:
             ans = input('{}: '.format(elements["elements"][numop]["symbol"]))
             if ans == "{name} {type}".format(name=name, type=type):
                 print("Correct")
             else:
                 print("Incorrect, the answer is {name} {type}".format(name=name, type=type))
+                prev.remove(numop)
