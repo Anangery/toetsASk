@@ -121,7 +121,7 @@
             "type":"Aardalkalimetalen"
         },
         {
-            "name":"pollonium",
+            "name":"polonium",
             "symbol":"Po",
             "type":"Metalloiden"
         },
@@ -339,6 +339,16 @@
             "name":"kwik",
             "symbol":"Hg",
             "type":"Overgangsmetalen"
+        },
+        {
+            "name":"plutonium",
+            "symbol":"Pu",
+            "type":"Actiniden"
+        },
+        {
+            "name":"uraan",
+            "symbol":"U",
+            "type":"Actiniden"
         }
 
     ]
