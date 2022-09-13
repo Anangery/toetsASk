@@ -1,5 +1,5 @@
 ### Original code made by Anangery for the purpose of learning the periodic table of elements
-### This code is free to be used by anyone and everyone under any condition
+### This code is free to be used by anyone and everyone under the conditions of the GNU General Public License version 3.0 (GPL 3)
 ###
 ### First date of publication: 12 sept. 2022
 ### Author: Anangery
