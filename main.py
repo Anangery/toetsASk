@@ -1,3 +1,10 @@
+### Original code made by Anangery for the purpose of learning the periodic table of elements
+### This code is free to be used by anyone and everyone under any condition
+###
+### First date of publication: 12 sept. 2022
+### Author: Anangery
+### License: Open source
+
 import json
 import random
 
