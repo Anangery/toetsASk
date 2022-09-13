@@ -6,6 +6,11 @@
             "type":"Niet-metalen"
         },
         {
+            "name":"zwavel",
+            "symbol":"S",
+            "type":"Niet-metalen"
+        }
+        {
             "name":"helium",
             "symbol":"He",
             "type":"Edelgassen"
