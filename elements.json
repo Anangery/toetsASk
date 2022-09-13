@@ -6,10 +6,35 @@
             "type":"Niet-metalen"
         },
         {
+            "name":"koolstof",
+            "symbol":"C",
+            "type":"Niet-metalen"
+        },
+        {
             "name":"zwavel",
             "symbol":"S",
             "type":"Niet-metalen"
-        }
+        },
+        {
+            "name":"stikstof",
+            "symbol":"N",
+            "type":"Niet-metalen"
+        },
+        {
+            "name":"zuurstof",
+            "symbol":"O",
+            "type":"Niet-metalen"
+        },
+        {
+            "name":"fosfor",
+            "symbol":"P",
+            "type":"Niet-metalen"
+        },
+        {
+            "name":"seleen",
+            "symbol":"Se",
+            "type":"Niet-metalen"
+        },
         {
             "name":"helium",
             "symbol":"He",
